@@ -1,0 +1,11 @@
+{
+  "name": "nucleus-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A dark colored theme for Atom.",
+  "repository": "https://github.com/atom/nucleus-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
